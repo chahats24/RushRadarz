@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.224a19e3.css",
+    "main.js": "/static/js/main.c541a42b.js",
+    "static/media/momos.jpg": "/static/media/momos.c46bbee38c17084b72b8.jpg",
+    "static/media/roll.jpg": "/static/media/roll.85a967832755a33b5637.jpg",
+    "static/media/nescafe.jpg": "/static/media/nescafe.60b4f6c2e0f855a1d308.jpg",
+    "static/media/vadapav.jpg": "/static/media/vadapav.5a1d640b6fff9f5f5b90.jpg",
+    "static/media/chocolava.jpg": "/static/media/chocolava.f37c540b491ff4d196f8.jpg",
+    "static/media/HangOnSwing.jpg": "/static/media/HangOnSwing.aa142d0d8eda921a955f.jpg",
+    "static/media/KC.jpg": "/static/media/KC.93ae8473c258e66c3874.jpg",
+    "static/media/brownie.jpg": "/static/media/brownie.91a1926f5510a124ad5d.jpg",
+    "static/media/prpcanteen.jpg": "/static/media/prpcanteen.809d2e8092dadae81f05.jpg",
+    "static/media/maggi.jpg": "/static/media/maggi.1e6a8e88bc7c5190ec92.jpg",
+    "static/media/paneer.jpg": "/static/media/paneer.7551d1c68169f24a0deb.jpg",
+    "static/media/dahipuri.jpg": "/static/media/dahipuri.2c661802d9e9ebcc906c.jpg",
+    "static/media/burger.jpg": "/static/media/burger.e14c4d242beb8eb780c9.jpg",
+    "static/media/pizza.jpg": "/static/media/pizza.ebb96c50f7375223236e.jpg",
+    "static/media/pasta.jpg": "/static/media/pasta.3a7817072a5db3cda15c.jpg",
+    "static/media/naan.jpg": "/static/media/naan.c4c70a0b59bd05cecc45.jpg",
+    "static/media/paneerparatha.jpg": "/static/media/paneerparatha.a87c5d017098c37e53de.jpg",
+    "static/media/oreo.jpg": "/static/media/oreo.b4cc3b51b9582454ea1b.jpg",
+    "static/media/noodles.jpg": "/static/media/noodles.537a979bb1f911b70179.jpg",
+    "static/media/mint.jpg": "/static/media/mint.67d1425d1aeea1e6c166.jpg",
+    "static/media/firedrice.jpg": "/static/media/firedrice.6f8614434f15fb9c46a9.jpg",
+    "static/media/pavbhaji.jpg": "/static/media/pavbhaji.8442c001a0a4f9f312a6.jpg",
+    "static/media/DC.jpg": "/static/media/DC.8e0744fe3134c1222ff3.jpg",
+    "static/media/coldcoffee.jpg": "/static/media/coldcoffee.bee30f7d7a327b9094b4.jpg",
+    "static/media/mangolassi.jpg": "/static/media/mangolassi.014289e6957e1acb43f1.jpg",
+    "static/media/frenchfries.jpg": "/static/media/frenchfries.89e47dd89d3adf8ce0e3.jpg",
+    "static/media/chickennoodles.jpg": "/static/media/chickennoodles.0e953c8c5467d31bed1e.jpg",
+    "static/media/hero.jpg": "/static/media/hero.8bdd8492492c1dd002f6.jpg",
+    "static/media/biryani.jpg": "/static/media/biryani.a4f84c4b4e4a586ce85f.jpg",
+    "static/media/lassipoint.jpg": "/static/media/lassipoint.4fd5187a2ce2e99879a8.jpg",
+    "index.html": "/index.html",
+    "main.224a19e3.css.map": "/static/css/main.224a19e3.css.map",
+    "main.c541a42b.js.map": "/static/js/main.c541a42b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.224a19e3.css",
+    "static/js/main.c541a42b.js"
+  ]
+}
